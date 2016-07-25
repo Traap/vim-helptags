@@ -19,3 +19,4 @@ accustom to using 'Pathogen's' Helptags function to generate documentation for
 each plugin I had installed; and, since Helptags is not part of 'plug' I decided
 to extract Helptags from Pathogen and create a standalong pluging.
 
+Traap
