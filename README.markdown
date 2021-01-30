@@ -17,6 +17,6 @@ I have recently started using [Junegunn Choi's](https://github.com/junegunn)
 [Pathogen](http://github.com/tpope/vim-pathogen), since December 2014. I was
 accustom to using 'Pathogen's' Helptags function to generate documentation for
 each plugin I had installed; and, since Helptags is not part of 'plug' I decided
-to extract Helptags from Pathogen and create a standalong pluging.
+to extract Helptags from Pathogen and create a standalone plugin.
 
 Traap
